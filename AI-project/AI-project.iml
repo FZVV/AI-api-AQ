@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES />
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://D:/gson/gson-master.zip!/gson-master/codegen/src/main/java" />
+          <root url="jar://D:/gson/gson-master.zip!/gson-master/codegen/src/test/java" />
+          <root url="jar://D:/gson/gson-master.zip!/gson-master/examples/android-proguard-example/src" />
+          <root url="jar://D:/gson/gson-master.zip!/gson-master/extras/src/main/java" />
+          <root url="jar://D:/gson/gson-master.zip!/gson-master/extras/src/test/java" />
+          <root url="jar://D:/gson/gson-master.zip!/gson-master/gson/src/main/java" />
+          <root url="jar://D:/gson/gson-master.zip!/gson-master/gson/src/main/java-templates" />
+          <root url="jar://D:/gson/gson-master.zip!/gson-master/gson/src/test/java" />
+          <root url="jar://D:/gson/gson-master.zip!/gson-master/metrics/src/main/java" />
+          <root url="jar://D:/gson/gson-master.zip!/gson-master/proto/src/main/java" />
+          <root url="jar://D:/gson/gson-master.zip!/gson-master/proto/src/test/java" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://D:/gson/gson-2.6.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>
